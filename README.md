@@ -15,7 +15,9 @@ Simulación de un sistema de notificaciones basado en el **patrón Publish/Subsc
 | 🐳 Docker + RabbitMQ   | Contenedor para el broker de mensajes                    |
 | 🛠 Maven               | Gestión del proyecto y dependencias                      |
 
----## 📚 Resumen del proyecto
+---
+
+## 📚 Resumen del proyecto
 
 Este laboratorio simula un sistema de alerta en el que:
 
