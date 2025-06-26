@@ -15,5 +15,14 @@ Simulación de un sistema de notificaciones basado en el **patrón Publish/Subsc
 | 🐳 Docker + RabbitMQ   | Contenedor para el broker de mensajes                    |
 | 🛠 Maven               | Gestión del proyecto y dependencias                      |
 
----
+---## 📚 Resumen del proyecto
 
+Este laboratorio simula un sistema de alerta en el que:
+
+- Un **publisher** genera un mensaje cada 15 segundos.
+- Dos **consumidores**, de forma **independiente y desacoplada**, reciben el mismo mensaje desde RabbitMQ.
+- Cada consumidor está conectado a su **propia cola durable**.
+- Los consumidores pueden ser **activados o pausados dinámicamente** mediante endpoints REST.
+- Los mensajes son **persistentes**, y si un consumidor está pausado, los mensajes se almacenan hasta que se reanude.
+
+---
