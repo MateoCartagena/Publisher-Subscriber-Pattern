@@ -1,3 +1,5 @@
+# [Informe](./Publisher-Subscriber-Pattern/blob/main/Taller%20Patrón%20Publish%20and%20Suscriber%20Channel.pdf)
+
 # 📨 camel-pubsub-lab
 
 Simulación de un sistema de notificaciones basado en el **patrón Publish/Subscribe** utilizando **Apache Camel** y **RabbitMQ**. Este proyecto demuestra cómo desacoplar productores y consumidores en una arquitectura robusta y tolerante a fallos, permitiendo incluso pausar y reanudar consumidores dinámicamente.
