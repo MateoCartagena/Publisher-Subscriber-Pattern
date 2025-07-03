@@ -1,4 +1,4 @@
-# [Informe](./Publisher-Subscriber-Pattern/blob/main/Taller%20Patrón%20Publish%20and%20Suscriber%20Channel.pdf)
+# [Informe Aquí](./Taller%20Patrón%20Publish%20and%20Suscriber%20Channel.pdf)
 
 # 📨 camel-pubsub-lab
 
